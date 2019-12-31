@@ -21,3 +21,10 @@
 - [ ] -[GitHub - IceInTheFire/timotaoshu: 提莫淘书，小说爬虫，用node爬书，node 小说，vue+express+node爬虫](https://github.com/IceInTheFire/timotaoshu)
 - [ ] [GitHub - tkliuxing/bookspider: 小说站点爬虫与书籍展示站点](https://github.com/tkliuxing/bookspider)
 - [ ] [GitHub - colorblank/book_parser: 爬虫练手，解析在线小说，可切换书源](https://github.com/colorblank/book_parser)  todo
+
+
+
+
+- [ ] [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
+
+- [ ] [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool)
