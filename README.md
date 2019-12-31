@@ -22,9 +22,11 @@
 - [ ] [GitHub - tkliuxing/bookspider: 小说站点爬虫与书籍展示站点](https://github.com/tkliuxing/bookspider)
 - [ ] [GitHub - colorblank/book_parser: 爬虫练手，解析在线小说，可切换书源](https://github.com/colorblank/book_parser)  todo
 
+- [ ] [Python3 网络爬虫 猫眼 腾讯视频 豆瓣 研招网 微博 笔趣阁小说 百度热点 B站 CSDN 网易云阅读 阿里文学 百度股票 今日头条 微信公众号 网易云音乐 拉勾 有道 unsplash 实习僧 汽车之家 英雄联盟盒子 大众点评 链家 LPL赛程 台风 梦幻西游、阴阳师藏宝阁 天气 牛客网 百度文库 睡前故事 知乎 Wish](https://github.com/librauee/Reptile)
 
+- [ ] [基于flask+request小说爬取项目](https://github.com/longzx-9527/flask_spider)
 
-
+    
 - [ ] [Python入门网络爬虫之精华版](https://github.com/lining0806/PythonSpiderNotes)
 
 - [ ] [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool)
